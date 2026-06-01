@@ -28,6 +28,6 @@ Python · Django · React · Node.js · Express · MongoDB · JavaScript · scik
 
 ### 📬 &nbsp;Contact me
 
-📧 Email: &nbsp;[bhikadiyaom@gmail.com](mailto:bhikadiyaom90@gmail.com)  
+📧 Email: &nbsp;[bhikadiyaom90@gmail.com](mailto:bhikadiyaom90@gmail.com)  
 💼 LinkedIn: &nbsp;[linkedin.com/in/bhikadiya-om](https://www.linkedin.com/in/bhikadiya-om/)  
 🌐 Portfolio: &nbsp;[ombhikadiya.netlify.app](https://ombhikadiya.netlify.app/)
